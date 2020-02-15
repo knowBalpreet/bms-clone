@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+
+body {
+
+  background-color: #f2f2f2;
+  font-family: 'Montserrat', sans-serif;
+  font-display: auto;
+  height: 100vh;
+}
+
+.bg-card {
+  background-color: $secondaryColor;
+  border-radius: 20px;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
